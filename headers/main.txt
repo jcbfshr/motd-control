@@ -1,0 +1,12 @@
+ooo        ooooo                                           .o88o.     .   
+`88.       .888'                                           888 `"   .o8   
+ 888b     d'888  oooo    ooo  .ooooo.  oooo d8b  .ooooo.  o888oo  .o888oo 
+ 8 Y88. .P  888   `88.  .8'  d88' `"Y8 `888""8P d88' `88b  888      888   
+ 8  `888'   888    `88..8'   888        888     888   888  888      888   
+ 8    Y     888     `888'    888   .o8  888     888   888  888      888 . 
+o8o        o888o     .8'     `Y8bod8P' d888b    `Y8bod8P' o888o     "888" 
+                 .o..P'                                                   
+                 `Y8P'                                                    
+                                                                          
+Bonjour ! Mycroft is an invitation-only IRC by Jacob Fisher and Grzegorz Ciołek.
+Thanks for joining!

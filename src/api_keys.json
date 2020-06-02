@@ -1,0 +1,13 @@
+{
+    "api_keys":{
+        "guardian": {
+            "name": "The Guardian",
+            "api_key": "",
+            "base_url": "https://content.guardianapis.com/search?api-key="
+        },
+        "useless_facts": {
+            "name": "Useless facts",
+            "base_url": "https://uselessfacts.jsph.pl/random.json?language=en"
+        }
+    }
+}
